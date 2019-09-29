@@ -101,8 +101,10 @@ footer p {
         height: 50vh;
     }
     .hero {
-        display: block;
-        margin-top: 0 auto
+        top: 5%;
+        left: 15%;
+        height: 10px;
+        width: 30px;
     }
     .logo {
         height: 10px;
@@ -112,9 +114,13 @@ footer p {
     .grid-2 {
         grid-template-columns: 1fr;
     }
-    .services div {
+    .service-info {
         border-bottom: #333 dashed 1px;
         padding: 1.2rem 1rem;
+    }
+    .portrait {
+        display: block;
+        margin: 5px auto;
     }
 }
 
