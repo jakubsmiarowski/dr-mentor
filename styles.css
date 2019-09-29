@@ -64,6 +64,10 @@ body {
     grid-template-columns: repeat(2, 1fr);
 }
 
+.service-info i {
+    color: #43D3E8;
+}
+
 .portrait {
     height: 40rem;
     width: 30rem;
