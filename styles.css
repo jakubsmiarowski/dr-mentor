@@ -110,10 +110,6 @@ footer p {
         height: 10px;
         width: 30px;
     }
-    .logo {
-        height: 10px;
-        width: 30px;
-    }
     .grid-3,
     .grid-2 {
         grid-template-columns: 1fr;
@@ -134,7 +130,11 @@ footer p {
     }
     .hero {
         top: 2%;
-        left: 5%;
+        left: 18%;
+    }
+    .hero .logo {
+        height: 180px;
+        width: 280px;
     }
     .grid-3,
     .grid-2 {
