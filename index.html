@@ -2,19 +2,33 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <script src="typed.js-2.0.11/"></script>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+    <link rel="stylesheet" href="styles.css" />
     <title>Dr Mentor</title>
 </head>
 
 <body>
-    <header class="showcase">
+    <header>
         <div class="hero">
-            <img src="img/logo.png" class="logo" alt="Dr. Mentor">
+            <nav class="wrapper">
+                <ul class="nav-links">
+                    <l1 class="nav-links-item">Home</l1>
+                    <l1 class="nav-links-item">Services</l1>
+                </ul>
+                <img src="img/dr.png" class="logo" alt="Dr. Mentor" />
+                <ul class="nav-links">
+                    <l1 class="nav-links-item">About</l1>
+                    <l1 class="nav-links-item">Clients</l1>
+                </ul>
+                <div class="typed">
+                    <p>I am <span class="type"></span></p>
+                </div>
+            </nav>
         </div>
     </header>
 
@@ -24,17 +38,23 @@
             <div class="service-info">
                 <i class="fas fa-hands-helping fa-3x"></i>
                 <h3>Professional Help</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, reiciendis!</p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, reiciendis!
+                </p>
             </div>
             <div class="service-info">
                 <i class="fas fa-user-tie fa-3x"></i>
                 <h3>Face to face meetings</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, reiciendis!</p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, reiciendis!
+                </p>
             </div>
             <div class="service-info">
                 <i class="fas fa-briefcase fa-3x"></i>
                 <h3>Freelancing Projects</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, reiciendis!</p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, reiciendis!
+                </p>
             </div>
         </div>
     </section>
@@ -44,20 +64,31 @@
         <div class="container">
             <div class="content">
                 <div class="center">
-                    <img src="img/wyeth_114_bw.jpg" alt="photo" class="portrait">
+                    <iframe width="520" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+            </iframe>
                 </div>
                 <div class="center">
                     <h3>About Me</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non eos aperiam labore consectetur maiores ea magni exercitationem similique laborum sed, unde, autem vel iure doloribus aliquid. Aspernatur explicabo consectetur consequatur
-                        non nesciunt debitis quos alias soluta, ratione, ipsa officia reiciendis.</p>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non eos aperiam labore consectetur maiores ea magni exercitationem similique laborum sed, unde, autem vel iure doloribus aliquid. Aspernatur explicabo consectetur consequatur non nesciunt debitis
+                        quos alias soluta, ratione, ipsa officia reiciendis.
+                    </p>
                 </div>
             </div>
         </div>
     </section>
 
     <footer class="center bg-dark">
-        <p>Dr. Mentor &copy; 2019</p>
+        <div class="socials">
+            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-twitter"></i>
+            <i class="fab fa-instagram"></i>
+            <i class="fab fa-youtube"></i>
+        </div>
+        <p>Dr. Mentor &copy; 2020</p>
     </footer>
+    <script src="typed.js"></script>
+    <script src="index.js"></script>
 </body>
 
 </html>
