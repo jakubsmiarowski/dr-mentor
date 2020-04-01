@@ -149,14 +149,15 @@ footer p {
         display: none;
     }
     .typed {
-        left: 25%;
+        left: 23%;
         top: 40%;
     }
     .typed p {
         font-size: 1.4rem;
     }
     .video {
-        width: 420px;
+        width: 80%;
+        margin: 0 auto;
     }
     .grid-3,
     .grid-2 {
