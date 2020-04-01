@@ -18,10 +18,6 @@ body {
     position: relative;
 }
 
-.fade {
-    color: #43D3E8;
-}
-
 .wrapper {
     width: 100%;
     padding-top: 20px;
@@ -186,8 +182,26 @@ footer p {
 
 /* Landscape */
 
-@media (max-height: 500px) {
-    .hero {
-        top: 0;
+@media (max-width: 1000px) {
+    .typed p {
+        font-size: 2rem;
     }
 }
+
+@media (max-width: 576px) {
+    .hero {
+        width: 100%;
+        height: 50vh;
+    }
+    .nav-links {
+        display: none;
+    }
+    .typed p {
+        font-size: 1rem;
+    }
+    .video {
+        width: 450px;
+    }
+}
+
+@media (max-height: 500px) {}
