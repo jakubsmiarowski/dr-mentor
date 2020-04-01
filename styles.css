@@ -156,6 +156,7 @@ footer p {
         font-size: 1.4rem;
     }
     .video {
+        height: 200px;
         width: 80%;
         margin: 0 auto;
     }
