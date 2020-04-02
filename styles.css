@@ -52,6 +52,7 @@ body {
     top: 20%;
     left: 38%;
     font-size: 3rem;
+    color: #0abde3;
 }
 
 .container {
@@ -113,11 +114,14 @@ footer {
 
 footer p {
     margin: 0;
+    font-size: 1.5rem;
+    color: #0abde3;
 }
 
 .socials i {
     font-size: 20px;
     margin: 10px;
+    color: #0abde3;
 }
 
 .socials a {
