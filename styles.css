@@ -1,6 +1,6 @@
 body {
     box-sizing: border-box;
-    background: rgba(0, 0, 0, 0.9);
+    background: #f4f4f4;
     margin: 0;
     color: #fff;
     font-family: 'Montserrat', sans-serif;
@@ -49,8 +49,8 @@ body {
 
 .typed {
     position: absolute;
-    top: 20%;
-    left: 38%;
+    top: 30%;
+    left: 30%;
     font-size: 3rem;
     color: #0abde3;
 }
@@ -58,17 +58,23 @@ body {
 .container {
     max-width: 960px;
     margin: auto;
-    overflow: hidden;
     padding: 4rem 1rem;
 }
 
 .grid-3 {
     display: grid;
-    grid-gap: 60px;
+    grid-gap: 100px;
     grid-template-columns: repeat(3, 1fr);
 }
 
+.grid-5 {
+    display: grid;
+    grid-gap: 60px;
+    grid-template-columns: repeat(5, 1fr);
+}
+
 .service-info {
+    padding: 4rem 0.5rem;
     color: black;
 }
 
@@ -83,6 +89,10 @@ body {
     margin: auto;
 }
 
+.testimonials {
+    width: 100%;
+}
+
 .testimonials h3 {
     font-weight: 400;
 }
@@ -93,6 +103,8 @@ body {
     border-radius: 50%;
     border: 1px solid #dcdde1;
     background-position: center;
+    background-size: cover;
+    margin: 0 auto;
     -webkit-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.59);
     -moz-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.59);
     box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.59);
@@ -142,6 +154,20 @@ footer p {
 
 /* Small Screens */
 
+@media (max-width: 768px) {
+    .typed {
+        left: 18%;
+        top: 40%;
+    }
+    .typed p {
+        font-size: 1.7rem;
+    }
+    .grid-5 {
+        grid-gap: 0;
+        grid-template-columns: 3fr
+    }
+}
+
 @media (max-width: 576px) {
     .hero {
         top: 0;
@@ -153,7 +179,7 @@ footer p {
         display: none;
     }
     .typed {
-        left: 23%;
+        left: 18%;
         top: 40%;
     }
     .typed p {
@@ -165,7 +191,8 @@ footer p {
         margin: 0 auto;
     }
     .grid-3,
-    .grid-2 {
+    .grid-2,
+    .grid-5 {
         grid-template-columns: 1fr;
     }
     .service-info {
