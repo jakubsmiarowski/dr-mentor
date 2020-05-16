@@ -1,7 +1,7 @@
 var typed = new Typed('.type', {
     strings: [
         'Diagnoza i szybka pomoc',
-        'Likwidacja bólu i leczenie przyczyny',
+        'Likwidacja bólu i leczenie objawów',
         'Grupowo, indywidualnie, f2f i online',
         'Doctor - Mentor ludzi korporacji'
     ],

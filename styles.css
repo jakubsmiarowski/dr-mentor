@@ -129,8 +129,17 @@ body {
     color: #f4f4f4;
 }
 
-footer {
+.footer {
     padding: 2.2rem;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row wrap;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-flow: row wrap;
+    margin-right: -12px;
+    margin-left: -12px;
 }
 
 footer p {
