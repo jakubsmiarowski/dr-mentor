@@ -106,6 +106,10 @@ body {
     font-weight: 400;
 }
 
+.testimonials hr {
+    width: 200px;
+}
+
 .testimonials img {
     width: 150px;
     height: 150px;
