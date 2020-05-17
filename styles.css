@@ -211,6 +211,24 @@ footer p {
         grid-gap: 0;
         grid-template-columns: 3fr
     }
+    .contact-info {
+        text-align: center;
+    }
+    .contact-info ul {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-top: 20px;
+    }
+    .contact-info i {
+        margin: 0;
+    }
+    .socials {
+        flex-direction: column;
+    }
+    .socials p {
+        margin-top: 20px;
+    }
 }
 
 @media (max-width: 576px) {
