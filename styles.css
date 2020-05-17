@@ -143,6 +143,10 @@ footer p {
     color: #0abde3;
 }
 
+.clients {
+    overflow: hidden;
+}
+
 .socials {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -228,6 +232,7 @@ footer p {
     }
     .socials p {
         margin-top: 20px;
+        font-size: 20px;
     }
 }
 
