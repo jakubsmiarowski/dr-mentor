@@ -134,16 +134,7 @@ body {
 }
 
 .footer {
-    padding: 2.2rem;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    -ms-flex-flow: row wrap;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    flex-flow: row wrap;
-    margin-right: -12px;
-    margin-left: -12px;
+    padding: 2.5rem 5rem;
 }
 
 footer p {
@@ -152,13 +143,45 @@ footer p {
     color: #0abde3;
 }
 
-.socials i {
-    font-size: 20px;
-    margin: 10px;
+.socials {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row wrap;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    position: relative;
+    align-items: center;
+}
+
+.socials p {
+    margin-bottom: 10px;
+}
+
+.contact-info {
+    text-align: left;
+}
+
+.contact-info ul {
+    display: flex;
+    flex-direction: row;
+    padding-inline-start: 0;
+    margin: 0;
+}
+
+.contact-info ul li {
+    list-style-type: none;
+}
+
+.contact-info i {
+    font-size: 30px;
+    margin: 10px 50px 0 0;
     color: #0abde3;
 }
 
-.socials a {
+.contact-info a {
     text-decoration: none;
     color: white;
     transition: 2s;
@@ -201,7 +224,7 @@ footer p {
         display: none;
     }
     .typed {
-        left: 18%;
+        left: 10%;
         top: 40%;
     }
     .typed p {
@@ -211,6 +234,12 @@ footer p {
         height: 200px;
         width: 80%;
         margin: 0 auto;
+    }
+    .testimonials h3 {
+        font-size: 15px;
+    }
+    .testimonials hr {
+        width: 100px;
     }
     .grid-3,
     .grid-2,
