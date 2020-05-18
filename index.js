@@ -17,8 +17,10 @@ $(document).ready(function() {
     $('.slick').slick({
         infinite: true,
         speed: 300,
-        slidesToShow: 3,
+        slidesToShow: 2,
         adaptiveHeight: true,
+        autoplay: false,
+        autoplaySpeed: 4000,
         dots: true,
         responsive: [{
                 breakpoint: 768,
@@ -26,11 +28,10 @@ $(document).ready(function() {
                     arrows: false,
                     centerMode: true,
                     centerPadding: '40px',
-                    slidesToShow: 2
                 }
             },
             {
-                breakpoint: 480,
+                breakpoint: 600,
                 settings: {
                     arrows: false,
                     centerMode: true,
@@ -99,7 +100,7 @@ const testimonials = [{
 }, {
     "id": 10,
     "name": "Natalia Łojko",
-    "title": "Radca Prawny KRK Legal",
+    "title": "Partner KRK Legal",
     "image": "https://media-exp1.licdn.com/dms/image/C4E03AQE15vvo8xklUQ/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=qevNc-gVx9V45SEi9oeRSfYXXmtDRes6WtZLF1EOrQE",
     "text": "yo"
 }, {
@@ -157,7 +158,8 @@ console.log(testimonials);
 document.getElementById('slick').innerHTML = testimonials.map(user =>
     `<div class="testimonials">
         <img src="${user.image}" alt="client">
-        <h3>${user.name}, ${user.title}</h3>
+        <h3>${user.name}</h3>
+        <h4>${user.title}</h4>
         <hr>
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed totam inventore alias suscipit consequatur, commodi libero voluptatibus eligendi pariatur magni?</p>
     </div>`

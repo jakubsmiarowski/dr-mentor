@@ -88,6 +88,7 @@ body {
 }
 
 .testimonials h3,
+.testimonials h4,
 .service-info i,
 .socials i:hover {
     color: #0abde3;
@@ -103,8 +104,27 @@ body {
     align-items: center;
 }
 
+.slick {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.testimonials h4 {
+    font-weight: 400;
+    margin: 5px 0 0 0;
+    padding: 0 46px;
+}
+
 .testimonials h3 {
     font-weight: 400;
+    margin: 20px 0 0 0;
+}
+
+.testimonials p {
+    padding: 0 20px;
+    margin: 0;
 }
 
 .testimonials hr {
@@ -199,6 +219,10 @@ footer p {
     .typed p {
         font-size: 2rem;
     }
+    .grid-5 {
+        grid-gap: 30px;
+        grid-template-columns: repeat(3, 1fr);
+    }
 }
 
 
@@ -214,7 +238,7 @@ footer p {
     }
     .grid-5 {
         grid-gap: 0;
-        grid-template-columns: 3fr
+        grid-template-columns: 2fr
     }
     .contact-info {
         text-align: center;
@@ -269,6 +293,9 @@ footer p {
     .grid-2,
     .grid-5 {
         grid-template-columns: 1fr;
+    }
+    .service-info:nth-child(1) {
+        margin-top: 1.2rem;
     }
     .service-info {
         padding: 1.2rem 1rem;
