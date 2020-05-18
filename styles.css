@@ -64,6 +64,8 @@ body {
 .arturito {
     font-size: 22px;
     font-weight: 600;
+    text-decoration: none;
+    color: white;
 }
 
 .content p {
