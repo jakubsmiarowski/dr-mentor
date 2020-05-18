@@ -49,120 +49,145 @@ const testimonials = [{
     "name": "Ewa Muszyńska",
     "title": "Strategy Lead Diabetes Europe East & South w Novo Nordisk",
     "image": "https://media-exp1.licdn.com/dms/image/C5603AQEAAkK_uNzEBw/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=lyAcA8gzCVYwN70XMscQQetpgNPPM4hzZes9Mqi7IJg",
-    "text": "Artur is standup guy"
+    "text": "Artur is standup guy",
+    "link": "https://www.linkedin.com/in/ewa-muszynska-85162240/"
 }, {
     "id": 2,
     "name": "Antoni Żarski",
     "title": "General Manager w Bristol Myers Squib",
     "image": "https://media-exp1.licdn.com/dms/image/C5103AQFJOa3lsAZzCw/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=8Fam6gt00QY4pAPn5LPZI0B5UBT0HnK1AxJTW1q-AZQ",
-    "text": "yo"
+    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "link": "https://www.linkedin.com/in/antoni-zarski-2b86241/"
 }, {
     "id": 3,
     "name": "Radosław Pilipczuk",
     "title": "Sales Director w Salveo CEE",
     "image": "https://media-exp1.licdn.com/dms/image/C4D03AQE74-X8dtRuCg/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=sh08fZhzZDPpXLledZD8hxngkIGuM3n8tPT-TWVzHoM",
-    "text": "yo"
+    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "link": "https://www.linkedin.com/in/rados%C5%82aw-pilipczuk-123041113/"
 }, {
     "id": 4,
     "name": "Monika Gałecka",
     "title": "District Manager Hospital PRO.MED.PL",
     "image": "https://media-exp1.licdn.com/dms/image/C4D03AQGL5ozw3yifIw/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=6NkwkyQeSqHb2jNpa_CW66QYyPPFZGc-MJ96KIUsyvY",
-    "text": "yo"
+    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "link": "https://www.linkedin.com/in/monika-ga%C5%82ecka-b5264038/"
 }, {
     "id": 5,
     "name": "Jacek Dmowski",
     "title": "Field Force Lead w BMS",
     "image": "https://media-exp1.licdn.com/dms/image/C4E03AQH9ASitMm2P7g/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=XM4OxSm79dv72zV5gtjaa-QgAz_-iLN6VkoZSBnCPmA",
-    "text": "yo"
+    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "link": "https://www.linkedin.com/in/jacek-dmowski-00346899/"
 }, {
     "id": 6,
     "name": "Marcin Andziak",
     "title": "FCCA, Head of Finance and Distribution w Servier",
     "image": "https://media-exp1.licdn.com/dms/image/C4D03AQFTDhcY-xjECQ/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=lF4OK9xw8iXCblafE9Cu6yVngch_iGre9KgYc1yMnvo",
-    "text": "yo"
+    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "link": "https://www.linkedin.com/in/marcin-andziak-fcca-1411151/"
 }, {
     "id": 7,
     "name": "Borys Herman",
     "title": "Business Excellence & Strategic Planning Manager Sanofi Pasteur",
     "image": "https://media-exp1.licdn.com/dms/image/C5603AQHb_DNRziashw/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=QnSgiMGDdD0s0AAq0aOs1yU2CqhiR7KCgXl8JA3KQ6I",
-    "text": "yo"
+    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "link": "https://www.linkedin.com/in/borys-herman-43948b4b/"
 }, {
     "id": 8,
-    "name": " Joanna Szwajkowska",
+    "name": "Joanna Szwajkowska",
     "title": "Prezes Zarządu w WUZETEM S.A",
     "image": "https://i.wnp.pl/d/32/52/92/325292_r1_300.jpg",
-    "text": "yo"
+    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "link": "yo"
 }, {
     "id": 9,
     "name": "Piotr Stankiewicz",
     "title": "Łukasiewicz Research Network",
     "image": "https://media-exp1.licdn.com/dms/image/C4D03AQG_Sj_cGQ8Knw/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=vnNZO9H_ICgBpFhOWFuBxa09Ejow3t1pTnsGgh_c9U0",
-    "text": "yo"
+    "text": "Jako słuchacz edycji III edycji Leadership Academy of Poland ze zdumieniem stwierdzałem, że zawartość kursu już raz przerobiłem z moim DoctoreMentorem😊 Artur, dziękuję Ci za wszystkie cenne rady i wypracowane rezultaty.",
+    "link": "https://www.linkedin.com/in/piotr-stankiewicz-383a4213/"
 }, {
     "id": 10,
     "name": "Natalia Łojko",
     "title": "Partner KRK Legal",
     "image": "https://media-exp1.licdn.com/dms/image/C4E03AQE15vvo8xklUQ/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=qevNc-gVx9V45SEi9oeRSfYXXmtDRes6WtZLF1EOrQE",
-    "text": "yo"
+    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "link": "https://www.linkedin.com/in/natalialojko/"
 }, {
     "id": 11,
     "name": "Andrzej Staszewski",
     "title": "National Sales Manager OTC w Takeda",
     "image": "https://media-exp1.licdn.com/dms/image/C5103AQGnErQn25tlsA/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=0QBnbQ3s7Xk6z23TT4_EUaKErFFjGa5PotODLWvko_8",
-    "text": "yo"
+    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "link": "https://www.linkedin.com/in/andrzej-staszewski-84106855/"
 }, {
     "id": 12,
-    "name": " Petia Hadjieva",
+    "name": "Petia Hadjieva",
     "title": "Founder and CEO Starpharma",
     "image": "https://media-exp1.licdn.com/dms/image/C5603AQH13D-xjyWRaQ/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=LVubNvDxPoNlOeniG5Pf7-sPQ819tX_l7wyelopdfls",
-    "text": "yo"
+    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "link": "yo"
 }, {
     "id": 13,
     "name": "Mariusz Ćwik",
     "title": "District Manager w Herbapol Poznań",
     "image": "https://media-exp1.licdn.com/dms/image/C4D03AQGIcU55pV5wnw/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=prKhpRhntBK8YYzZanjSzrb1fYiS4XYwiPN4GyXdx4g",
-    "text": "yo"
+    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "link": "https://www.linkedin.com/in/petia-hadjieva-22a44311/"
 }, {
     "id": 14,
     "name": "Joanna Kurek",
     "title": "HR Director CEE w FOX Networks Groups",
     "image": "https://media-exp1.licdn.com/dms/image/C4E03AQExq5eh5IovOQ/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=JpNqbrKJ3lPjrr4KSOngiPl4XGsmyrlQKuk31ngs-2g",
-    "text": "yo"
+    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "link": "https://www.linkedin.com/in/joanna-kurek-207624a9/"
 }, {
     "id": 15,
     "name": "Danuta Madejska–Wróbel",
     "title": "Product Manager w Bausch Health",
     "image": "https://media-exp1.licdn.com/dms/image/C4D03AQEo5NUbWHMffA/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=E87zTIoDSYIipPNHa2jJRwDTpRHpz1XLiyF_e1_HzfY",
-    "text": "yo"
+    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "link": "https://www.linkedin.com/in/danuta-madejska-wr%C3%B3bel-a4625619/"
 }, {
     "id": 16,
-    "name": " Ilona Berowska",
+    "name": "Ilona Berowska",
     "title": "Finance Director w Mylan Poland",
     "image": "https://media-exp1.licdn.com/dms/image/C5103AQGGn7VDDLSggA/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=xDmTXLHe_eCWxyeX1Xsh64vWmytMjB5VhO6EyY0zcvE",
-    "text": "yo"
+    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "link": "https://www.linkedin.com/in/ilonaberowska/"
 }, {
     "id": 17,
     "name": "Renata Zabłotna",
     "title": "Market Access Director w Celgene Poland",
     "image": "https://media-exp1.licdn.com/dms/image/C4E03AQFr48ICV_OZgw/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=RfVmjSG1Yp3lADnHSnaY__TWrg_BVfVXcaJgAbFpww8",
-    "text": "yo"
+    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "link": "https://www.linkedin.com/in/renatazablotna/"
 }, {
     "id": 18,
     "name": "Krzysztof Warot",
     "title": "Head of Speciality Care w Boehringer Ingelheim",
     "image": "https://media-exp1.licdn.com/dms/image/C5603AQFMYwcLd-tEHw/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=EvV1wmyDGA1X1oL9qZvQ2XfTS-uTB6_0KM9PeYDGZ2s",
-    "text": "yo"
+    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "link": "https://www.linkedin.com/in/krzysztof-warot-7304ab68/"
+}, {
+    "id": 19,
+    "name": "Artur Śmiarowski",
+    "title": "Doctor Mentor &#128521",
+    "image": "img/rmg.jpg",
+    "text": "Lubię i polecam siebie za to, że nigdy się nie poddaję w walce o siebie i o Klienta. Moje motto: <strong>Kiedy uczeń jest gotowy, nauczyciel przychodzi. Kiedy uczeń jest naprawdę gotowy, nauczyciel odchodzi.</strong>",
+    "link": "https://www.linkedin.com/in/artur-%C5%9Bmiarowski-39430818/"
 }]
 
 console.log(testimonials);
 
 document.getElementById('slick').innerHTML = testimonials.map(user =>
     `<div class="testimonials">
-        <img src="${user.image}" alt="client">
+        <a href="${user.link}" target="_blank"><img src="${user.image}" alt="client"></a>
         <h3>${user.name}</h3>
         <h4>${user.title}</h4>
         <hr>
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed totam inventore alias suscipit consequatur, commodi libero voluptatibus eligendi pariatur magni?</p>
+        <p>${user.text}</p>
     </div>`
 ).join('')
 

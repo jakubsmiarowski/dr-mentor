@@ -61,6 +61,15 @@ body {
     padding: 4rem 1rem;
 }
 
+.arturito {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.content p {
+    font-size: 20px;
+}
+
 .grid-3 {
     display: grid;
     grid-gap: 100px;
