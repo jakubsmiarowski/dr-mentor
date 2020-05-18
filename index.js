@@ -173,9 +173,11 @@ const expandButton = document.getElementById("expand");
 expandButton.addEventListener('click', function() {
     const expandText = document.getElementById("expandable")
 
-    if (expandText.style.display === "none") {
-        expandText.style.display = "block";
-    } else {
+    if (expandText.style.display === "block") {
         expandText.style.display = "none";
+        expandButton.innerHTML = "Czytaj więcej -->"
+    } else {
+        expandText.style.display = "block";
+        expandButton.innerHTML = "Czytaj mniej <--"
     }
 });

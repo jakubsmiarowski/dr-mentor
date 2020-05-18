@@ -148,6 +148,10 @@ body {
     display: none;
 }
 
+.expand {
+    font-weight: 600;
+}
+
 .show {
     display: block;
 }
@@ -290,6 +294,9 @@ footer p {
         height: 200px;
         width: 80%;
         margin: 0 auto;
+    }
+    .content {
+        padding: 0 10px;
     }
     .testimonials h3 {
         font-size: 15px;
