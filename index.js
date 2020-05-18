@@ -21,7 +21,6 @@ $(document).ready(function() {
         adaptiveHeight: true,
         autoplay: false,
         autoplaySpeed: 4000,
-        dots: true,
         responsive: [{
                 breakpoint: 768,
                 settings: {
