@@ -43,6 +43,8 @@ $(document).ready(function() {
     });
 });
 
+
+
 const testimonials = [{
     "id": 1,
     "name": "Ewa Muszyńska",
@@ -164,3 +166,16 @@ document.getElementById('slick').innerHTML = testimonials.map(user =>
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed totam inventore alias suscipit consequatur, commodi libero voluptatibus eligendi pariatur magni?</p>
     </div>`
 ).join('')
+
+
+const expandButton = document.getElementById("expand");
+
+expandButton.addEventListener('click', function() {
+    const expandText = document.getElementById("expandable")
+
+    if (expandText.style.display === "none") {
+        expandText.style.display = "block";
+    } else {
+        expandText.style.display = "none";
+    }
+});

@@ -144,6 +144,14 @@ body {
     box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.59);
 }
 
+.expandable {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
 .bg-light {
     background: #f4f4f4;
     color: #333;
