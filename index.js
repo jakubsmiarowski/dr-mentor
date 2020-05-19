@@ -75,7 +75,7 @@ const testimonials = [{
     "name": "Jacek Dmowski",
     "title": "Field Force Lead w BMS",
     "image": "https://media-exp1.licdn.com/dms/image/C4E03AQH9ASitMm2P7g/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=XM4OxSm79dv72zV5gtjaa-QgAz_-iLN6VkoZSBnCPmA",
-    "text": "Witaj Doktorze. Oto moja rekomemdacja. Tworzysz atmosferę zaufania i otwartości. Słuchasz naprawdę aktywnie, trafne pytania, parafrazy itd. Po prostu chce się mówić. Dobrze się Ciebie słucha. Ton głosu, pewność i spokój. Mówisz prosto i zrozumiale, umiesz się dopasować do rozmówcy. I oczywiście to co mówisz - wiesz o czym mówisz. Wierzę w to. Masz też niesamowitą trafność diagnozy i oceny sytuacji. Trafiasz w punkt. Jakbyś czytał między wierszami to, co nie zostało powiedziane. To chyba odczułem najbardziej.🙏",
+    "text": "Arturze, tworzysz atmosferę zaufania i otwartości. Słuchasz naprawdę aktywnie, trafne pytania, parafrazy itd. Po prostu chce się mówić. Dobrze się Ciebie słucha. Ton głosu, pewność i spokój. Mówisz prosto i zrozumiale, umiesz się dopasować do rozmówcy. I oczywiście to co mówisz - wiesz o czym mówisz. Wierzę w to. Masz też niesamowitą trafność diagnozy i oceny sytuacji. Trafiasz w punkt. Jakbyś czytał między wierszami to, co nie zostało powiedziane. To chyba odczułem najbardziej.🙏",
     "link": "https://www.linkedin.com/in/jacek-dmowski-00346899/"
 }, {
     "id": 6,
