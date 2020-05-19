@@ -17,10 +17,8 @@ $(document).ready(function() {
     $('.slick').slick({
         infinite: true,
         speed: 300,
-        slidesToShow: 1,
+        slidesToShow: 2,
         adaptiveHeight: true,
-        autoplay: false,
-        autoplaySpeed: 4000,
         responsive: [{
                 breakpoint: 768,
                 settings: {
@@ -145,9 +143,9 @@ const testimonials = [{
 }, {
     "id": 15,
     "name": "Danuta Madejska–Wróbel",
-    "title": "Product Manager w Bausch Health",
+    "title": "Marketing Manager w Bausch Health",
     "image": "https://media-exp1.licdn.com/dms/image/C4D03AQEo5NUbWHMffA/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=E87zTIoDSYIipPNHa2jJRwDTpRHpz1XLiyF_e1_HzfY",
-    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "text": "Całe szczęście, że poznałam mentora Artura. Były chwile, gdy już myślałam o Bieszczadach…, bo brakowało siły na walkę z absurdem, na ciągłe odbijanie się od ściany, na korpo-ściemę. Artur pomógł mi spojrzeć na nie z innej, zupełnie nowej perspektywy. Wyzwolił tyle pozytywnej energii, zapału i wiary, że się uda. Minęło dużo trochę czasu, efekt pozostał. Dziękuję Arturze!",
     "link": "https://www.linkedin.com/in/danuta-madejska-wr%C3%B3bel-a4625619/"
 }, {
     "id": 16,
@@ -196,12 +194,13 @@ const expandButton = document.getElementById("expand");
 
 expandButton.addEventListener('click', function() {
     const expandText = document.getElementById("expandable")
-
+    const tl = new TimelineMax();
     if (expandText.style.display === "block") {
         expandText.style.display = "none";
         expandButton.innerHTML = "Czytaj więcej"
     } else {
         expandText.style.display = "block";
+        tl.fromTo(expandText, 0.5, { y: "50", opacity: 0 }, { y: 0, opacity: 1 });
         expandButton.innerHTML = "Czytaj mniej"
     }
 });
