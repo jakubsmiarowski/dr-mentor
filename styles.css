@@ -69,7 +69,7 @@ body {
 }
 
 .content p {
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .grid-3 {
@@ -78,11 +78,11 @@ body {
     grid-template-columns: repeat(3, 1fr);
 }
 
-.grid-5 {
+.grid-4 {
     display: grid;
-    grid-gap: 60px;
-    grid-template-columns: repeat(5, 1fr);
-    padding: 0 2rem;
+    grid-gap: 40px;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 0 3rem;
 }
 
 .service-info {
@@ -96,6 +96,11 @@ body {
 
 .service-info ul li {
     list-style-type: none;
+}
+
+.service-info a {
+    text-decoration: underline;
+    color: black;
 }
 
 .testimonials h3,
@@ -183,7 +188,7 @@ body {
 
 footer p {
     margin: 0;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     color: #0abde3;
 }
 
@@ -225,7 +230,7 @@ footer p {
 
 .contact-info i {
     font-size: 30px;
-    margin: 10px 50px 0 0;
+    margin: 10px 30px 0 0;
     color: #0abde3;
 }
 
@@ -242,7 +247,7 @@ footer p {
     .typed p {
         font-size: 2rem;
     }
-    .grid-5 {
+    .grid-4 {
         grid-gap: 30px;
         grid-template-columns: repeat(3, 1fr);
     }
@@ -259,7 +264,7 @@ footer p {
     .typed p {
         font-size: 1.7rem;
     }
-    .grid-5 {
+    .grid-4 {
         grid-gap: 0;
         grid-template-columns: 2fr
     }
@@ -317,7 +322,7 @@ footer p {
     }
     .grid-3,
     .grid-2,
-    .grid-5 {
+    .grid-4 {
         grid-template-columns: 1fr;
     }
     .service-info:nth-child(1) {

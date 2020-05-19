@@ -17,7 +17,7 @@ $(document).ready(function() {
     $('.slick').slick({
         infinite: true,
         speed: 300,
-        slidesToShow: 2,
+        slidesToShow: 1,
         adaptiveHeight: true,
         autoplay: false,
         autoplaySpeed: 4000,
@@ -70,14 +70,14 @@ const testimonials = [{
     "name": "Monika Gałecka",
     "title": "District Manager Hospital PRO.MED.PL",
     "image": "https://media-exp1.licdn.com/dms/image/C4D03AQGL5ozw3yifIw/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=6NkwkyQeSqHb2jNpa_CW66QYyPPFZGc-MJ96KIUsyvY",
-    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "text": "Doktorze😊Słuchałes i rozumiałes mnie w najtrudniejszych momentach - porażki zawodowej. Pomogłeś mi z tego wyjść, pokazałes mi czego można się z tego nauczyć i jak pójść dalej. Pomogłeś mi podjąć trudną decyzję wyboru. Rozwój to niekoniecznie awans, to sztuka znalezienia dla siebie miejsca. Uczysz jak być dobrym liderem będąc sobą. Jak budować swoją pozycję i wizerunek. Dajesz mi spokój i optymizm.",
     "link": "https://www.linkedin.com/in/monika-ga%C5%82ecka-b5264038/"
 }, {
     "id": 5,
     "name": "Jacek Dmowski",
     "title": "Field Force Lead w BMS",
     "image": "https://media-exp1.licdn.com/dms/image/C4E03AQH9ASitMm2P7g/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=XM4OxSm79dv72zV5gtjaa-QgAz_-iLN6VkoZSBnCPmA",
-    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "text": "Witaj Doktorze. Oto moja rekomemdacja. Tworzysz atmosferę zaufania i otwartości. Słuchasz naprawdę aktywnie, trafne pytania, parafrazy itd. Po prostu chce się mówić. Dobrze się Ciebie słucha. Ton głosu, pewność i spokój. Mówisz prosto i zrozumiale, umiesz się dopasować do rozmówcy. I oczywiście to co mówisz - wiesz o czym mówisz. Wierzę w to. Masz też niesamowitą trafność diagnozy i oceny sytuacji. Trafiasz w punkt. Jakbyś czytał między wierszami to, co nie zostało powiedziane. To chyba odczułem najbardziej.🙏",
     "link": "https://www.linkedin.com/in/jacek-dmowski-00346899/"
 }, {
     "id": 6,
@@ -199,9 +199,9 @@ expandButton.addEventListener('click', function() {
 
     if (expandText.style.display === "block") {
         expandText.style.display = "none";
-        expandButton.innerHTML = "Czytaj więcej -->"
+        expandButton.innerHTML = "Czytaj więcej"
     } else {
         expandText.style.display = "block";
-        expandButton.innerHTML = "Czytaj mniej <--"
+        expandButton.innerHTML = "Czytaj mniej"
     }
 });
