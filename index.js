@@ -54,7 +54,7 @@ const testimonials = [{
     "name": "Antoni Żarski",
     "title": "General Manager w Bristol Myers Squib",
     "image": "https://media-exp1.licdn.com/dms/image/C5103AQFJOa3lsAZzCw/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=8Fam6gt00QY4pAPn5LPZI0B5UBT0HnK1AxJTW1q-AZQ",
-    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "text": "Artur, zapytany powiedziałbym o Tobie: umie rozmawiać z ludźmi i dostrzegać ich potencjał oraz obszary do rozwoju, potrafi wzmacniać silne strony, pomaga uzmysławiać ludziom ich cele i do nich prowadzi, umie budować efektywne zespoły i tworzyć ich tożsamość. Wiele nauczyłem się od Ciebie i jeśli miałbym polecić mentora, to DoctoraMentora.",
     "link": "https://www.linkedin.com/in/antoni-zarski-2b86241/"
 }, {
     "id": 3,
@@ -145,7 +145,7 @@ const testimonials = [{
     "name": "Danuta Madejska–Wróbel",
     "title": "Marketing Manager w Bausch Health",
     "image": "https://media-exp1.licdn.com/dms/image/C4D03AQEo5NUbWHMffA/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=E87zTIoDSYIipPNHa2jJRwDTpRHpz1XLiyF_e1_HzfY",
-    "text": "Całe szczęście, że poznałam mentora Artura. Były chwile, gdy już myślałam o Bieszczadach…, bo brakowało siły na walkę z absurdem, na ciągłe odbijanie się od ściany, na korpo-ściemę. Artur pomógł mi spojrzeć na nie z innej, zupełnie nowej perspektywy. Wyzwolił tyle pozytywnej energii, zapału i wiary, że się uda. Minęło dużo trochę czasu, efekt pozostał. Dziękuję Arturze!",
+    "text": "Całe szczęście, że poznałam mentora Artura. Były chwile, gdy już myślałam o Bieszczadach…, bo brakowało siły na walkę z absurdem, na ciągłe odbijanie się od ściany, na korpo-ściemę. Artur pomógł mi spojrzeć na nie z innej, zupełnie nowej perspektywy. Wyzwolił tyle pozytywnej energii, zapału i wiary, że się uda. Minęło dużo czasu, efekt pozostał. Dziękuję Arturze!",
     "link": "https://www.linkedin.com/in/danuta-madejska-wr%C3%B3bel-a4625619/"
 }, {
     "id": 16,
