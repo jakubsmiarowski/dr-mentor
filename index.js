@@ -131,7 +131,7 @@ const testimonials = [{
     "name": "Mariusz Ćwik",
     "title": "District Manager w Herbapol Poznań",
     "image": "https://media-exp1.licdn.com/dms/image/C4D03AQGIcU55pV5wnw/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=prKhpRhntBK8YYzZanjSzrb1fYiS4XYwiPN4GyXdx4g",
-    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "text": "Doktorze Mentorze chciałbym podziękować za wszystkie Twoje rady i wskazówki . Każda z nich była w punkt. Byłeś i jesteś profesjonalnym  wsparciem w każdej sytuacji. Gorąco polecam współpracę z Arturem, trafnie zdiagnozuje problem i pomoże wybrać optymalne rozwiązanie.",
     "link": "https://www.linkedin.com/in/petia-hadjieva-22a44311/"
 }, {
     "id": 14,
