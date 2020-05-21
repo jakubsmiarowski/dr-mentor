@@ -1,7 +1,7 @@
 var typed = new Typed('.type', {
     strings: [
         'Diagnoza i szybka pomoc',
-        'Likwidacja bólu i leczenie objawów',
+        'Doradztwo B2B i B2C',
         'Grupowo, indywidualnie, f2f i online',
         'Doctor - Mentor ludzi korporacji'
     ],
@@ -61,7 +61,7 @@ const testimonials = [{
     "name": "Radosław Pilipczuk",
     "title": "Sales Director w Salveo CEE",
     "image": "https://media-exp1.licdn.com/dms/image/C4D03AQE74-X8dtRuCg/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=sh08fZhzZDPpXLledZD8hxngkIGuM3n8tPT-TWVzHoM",
-    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "text": "Odczuwasz większą satysfakcję, dochodząc sedna problemu samodzielnie? Oczywiście! Co jednak zrobić, gdy trafisz na obszar zupełnie dla Ciebie nowy? Osobiście rekomenduję wybór doświadczonego przewodnika. Mentora który już był tam, gdzie Ty się dopiero wybierasz. W moim przypadku takim projektem była współpraca międzynarodowa i różnice kulturowe wpływające na realizację wspólnych projektów. Arturze, raz jeszcze dziękuję. Było warto!",
     "link": "https://www.linkedin.com/in/rados%C5%82aw-pilipczuk-123041113/"
 }, {
     "id": 4,
@@ -138,7 +138,7 @@ const testimonials = [{
     "name": "Joanna Kurek",
     "title": "HR Director CEE w FOX Networks Groups",
     "image": "https://media-exp1.licdn.com/dms/image/C4E03AQExq5eh5IovOQ/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=JpNqbrKJ3lPjrr4KSOngiPl4XGsmyrlQKuk31ngs-2g",
-    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "text": "Polecam Artura wszystkim, którzy oczekują szybkiego zrozumienia istoty problemu i nie lubią czekać na rezultaty. Duże doświadczenie połączone z wyjątkowym zaangażowaniem. DoctorMentor lubi swoich pacjentów i oni to czują. Stąd szybkie efekty pracy. Polecam💪",
     "link": "https://www.linkedin.com/in/joanna-kurek-207624a9/"
 }, {
     "id": 15,
