@@ -100,7 +100,7 @@ const testimonials = [{
     "link": "yo"
 }, {
     "id": 9,
-    "name": "Dr. Hab. Piotr Stankiewicz",
+    "name": "Dr. hab. Piotr Stankiewicz",
     "title": "Łukasiewicz Research Network",
     "image": "https://media-exp1.licdn.com/dms/image/C4D03AQG_Sj_cGQ8Knw/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=vnNZO9H_ICgBpFhOWFuBxa09Ejow3t1pTnsGgh_c9U0",
     "text": "Jako słuchacz III edycji Leadership Academy of Poland ze zdumieniem stwierdzałem, że zawartość kursu już raz przerobiłem z moim DoctoreMentorem😊 Artur, dziękuję Ci za wszystkie cenne rady i wypracowane rezultaty.",
