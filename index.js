@@ -100,10 +100,10 @@ const testimonials = [{
     "link": "yo"
 }, {
     "id": 9,
-    "name": "Piotr Stankiewicz",
+    "name": "Dr. Hab. Piotr Stankiewicz",
     "title": "Łukasiewicz Research Network",
     "image": "https://media-exp1.licdn.com/dms/image/C4D03AQG_Sj_cGQ8Knw/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=vnNZO9H_ICgBpFhOWFuBxa09Ejow3t1pTnsGgh_c9U0",
-    "text": "Jako słuchacz edycji III edycji Leadership Academy of Poland ze zdumieniem stwierdzałem, że zawartość kursu już raz przerobiłem z moim DoctoreMentorem😊 Artur, dziękuję Ci za wszystkie cenne rady i wypracowane rezultaty.",
+    "text": "Jako słuchacz III edycji Leadership Academy of Poland ze zdumieniem stwierdzałem, że zawartość kursu już raz przerobiłem z moim DoctoreMentorem😊 Artur, dziękuję Ci za wszystkie cenne rady i wypracowane rezultaty.",
     "link": "https://www.linkedin.com/in/piotr-stankiewicz-383a4213/"
 }, {
     "id": 10,
@@ -117,7 +117,7 @@ const testimonials = [{
     "name": "Andrzej Staszewski",
     "title": "National Sales Manager OTC w Takeda",
     "image": "https://media-exp1.licdn.com/dms/image/C5103AQGnErQn25tlsA/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=0QBnbQ3s7Xk6z23TT4_EUaKErFFjGa5PotODLWvko_8",
-    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "text": "Jestem urodzonym sceptykiem i w podejmowaniu decyzji potrzebuję danych i dowodów. Za doradztwem Artura stoi nie tylko doświadczenie, ale dowód naukowy lub historia, ktora potwierdza trafność diagnozy i strategii działania. Korzystałem i korzystam głównie w zakresie zarządzania i relacji z ludźmi, w górę, i w dół drabiny decyzyjnej. I tu szczególnie polecam. Rezultaty szybkie i trwałe.",
     "link": "https://www.linkedin.com/in/andrzej-staszewski-84106855/"
 }, {
     "id": 12,
