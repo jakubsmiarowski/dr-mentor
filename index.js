@@ -82,14 +82,14 @@ const testimonials = [{
     "name": "Marcin Andziak",
     "title": "FCCA, Head of Finance and Distribution w Servier",
     "image": "https://media-exp1.licdn.com/dms/image/C4D03AQFTDhcY-xjECQ/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=lF4OK9xw8iXCblafE9Cu6yVngch_iGre9KgYc1yMnvo",
-    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "text": "Jedno pytanie może zmienić postrzeganie problemu lub pokazać, że leży on zupełnie gdzie indziej. Żeby takie pytanie usłyszeć lub zdać sobie sprawę z błędnego myślenia, warto mieć mentora. Rutyna zabija. Polecam Artura, bo nie jeden raz uświadomił mi, że wchodzę pod pociąg...",
     "link": "https://www.linkedin.com/in/marcin-andziak-fcca-1411151/"
 }, {
     "id": 7,
     "name": "Borys Herman",
     "title": "Business Excellence & Strategic Planning Manager Sanofi Pasteur",
     "image": "https://media-exp1.licdn.com/dms/image/C5603AQHb_DNRziashw/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=QnSgiMGDdD0s0AAq0aOs1yU2CqhiR7KCgXl8JA3KQ6I",
-    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "text": "Do tej pory żadne szkolenie nie pomogło mnie, i moim ludziom popchnąć kluczowych spraw do przodu. Na szczęście korporacyjny budżet pozwala na spojrzenie na trudne sytuacje okiem eksperta z zewnatrz. Polecam Artura zawsze, gdy pojawia się problem z efektywnością zespołu. Doctor zawsze stawia trafną diagnozę. Ludzie go lubią i szanują, więc chętnie wdrażają zmiany.",
     "link": "https://www.linkedin.com/in/borys-herman-43948b4b/"
 }, {
     "id": 8,
@@ -124,7 +124,7 @@ const testimonials = [{
     "name": "Petia Hadjieva",
     "title": "Founder and CEO Starpharma",
     "image": "https://media-exp1.licdn.com/dms/image/C5603AQH13D-xjyWRaQ/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=LVubNvDxPoNlOeniG5Pf7-sPQ819tX_l7wyelopdfls",
-    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "text": "Artur has been helping me as a business mentor for years. He has always tried to understand well my goals and challenges and has always managed to find the best way to make me believe in what I needed to change. He truly cared for my progress and was always available. He has passion and devotion for what he does, and I owe many good business and life decisions to him.",
     "link": "yo"
 }, {
     "id": 13,
