@@ -47,7 +47,7 @@ const testimonials = [{
     "name": "Ewa Muszyńska",
     "title": "Strategy Lead Diabetes Europe East & South w Novo Nordisk",
     "image": "https://media-exp1.licdn.com/dms/image/C5603AQEAAkK_uNzEBw/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=lyAcA8gzCVYwN70XMscQQetpgNPPM4hzZes9Mqi7IJg",
-    "text": "Artur is standup guy",
+    "text": "Praca z Arturem pomogła mi w bardzo poważnym kryzysie zawodowym. Artur jest kopalnią wiedzy i doświadczeń nt. relacji interpersonalnych w korporacji. Potrafi pokonać  opory, które rodzą sie w stresie. Brak wiary, złość i lęk mijaja, gdy pomaga odnaleźć wyjście z sytuacji bez wyjścia. DoctorMentor to mądra inwestycja, która szybko się zwraca 🙂",
     "link": "https://www.linkedin.com/in/ewa-muszynska-85162240/"
 }, {
     "id": 2,
@@ -110,7 +110,7 @@ const testimonials = [{
     "name": "Natalia Łojko",
     "title": "Partner KRK Legal",
     "image": "https://media-exp1.licdn.com/dms/image/C4E03AQE15vvo8xklUQ/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=qevNc-gVx9V45SEi9oeRSfYXXmtDRes6WtZLF1EOrQE",
-    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "text": "Jak zarządzać zespołem? Jak się sprawnie komunikować? Jak uskrzydlać? Artur to wie i potrafi przekazać. Ważne: wiedza sprawdzona przez Artura praktycznie przez wiele lat pracy z różnymi zespołami.",
     "link": "https://www.linkedin.com/in/natalialojko/"
 }, {
     "id": 11,
@@ -170,6 +170,13 @@ const testimonials = [{
     "link": "https://www.linkedin.com/in/krzysztof-warot-7304ab68/"
 }, {
     "id": 19,
+    "name": "Kuba i Franek Śmiarowscy",
+    "title": "Synowie",
+    "image": "img/survival.jpg",
+    "text": "Nie wiem jak on to robi, ale po 5 minutach każdy obcy człowiek jest już jego dobrym znajomym",
+    "link": "#"
+}, {
+    "id": 20,
     "name": "Artur Śmiarowski",
     "title": "Doctor Mentor &#128521",
     "image": "img/rmg.jpg",
