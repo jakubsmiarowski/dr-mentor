@@ -96,7 +96,7 @@ const testimonials = [{
     "name": "Joanna Szwajkowska",
     "title": "Prezes Zarządu w WUZETEM S.A",
     "image": "https://i.wnp.pl/d/32/52/92/325292_r1_300.jpg",
-    "text": "Dummy text for checking the length and complexity of the text that can put in this place for a long time",
+    "text": "Artur to nie tylko doradca i strateg. Ma też zdolność do stymulowania do działania. To, co chyba cenię w nim najbardziej, to zaangażowanie i pomoc w realizacji ustalonych zadań, i wspieranie w osiągnięciu końcowych rezultatów. Nie przestaje się interesować projektem, mimo, że jego rola kończy się na wcześniejszym etapie. Bierze odpowiedzialność za efekt do końca.",
     "link": "yo"
 }, {
     "id": 9,
