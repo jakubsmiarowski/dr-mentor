@@ -1,2 +1,2 @@
 # dr-mentor
-https://jakubsmiarowski.github.io/dr-mentor/
+http://doctormentor.pl/
